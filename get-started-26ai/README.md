@@ -27,6 +27,7 @@ RDF graphs are governed by standards from the W3C.  They are useful to have a fo
     <http://example.oracle.com/onto#GradStudent>
 
 And a fact about the data that all graduate students are students can be represented as
+
     <http://example.oracle.com/onto#GradStudent>
     <http://www.w3.org/2000/01/rdf-schema#subClassOf>
     <http://example.oracle.com/onto#Student>
